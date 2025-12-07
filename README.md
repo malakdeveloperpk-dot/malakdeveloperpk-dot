@@ -9,39 +9,36 @@
 
 <div align="center">
 
-<div align="center">
-
-<div align="center">
-
 <h3 align="center" style="
-  color: #ffffff;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  padding: 1.5rem 3rem;
-  border-radius: 20px;
-  font-size: 2.8rem;
-  font-weight: 700;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #ffd700;
+  font-size: 3.2rem;
+  font-weight: 900;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3),
+               0 0 20px rgba(255, 215, 0, 0.3);
   margin-bottom: 1.5rem;
-  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+  letter-spacing: 1px;
+  font-family: 'Playfair Display', serif;
 ">
-  🚀 Building Digital Experiences That Convert
+  🏆 Building Digital Experiences That Convert
 </h3>
 
 <h4 align="center" style="
-  color: #ffffff;
-  background: rgba(255, 255, 255, 0.08);
-  backdrop-filter: blur(8px);
-  padding: 1.2rem 2.5rem;
-  border-radius: 15px;
-  font-size: 2rem;
-  font-weight: 600;
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #c0c0c0;
+  font-size: 2.3rem;
+  font-weight: 700;
   margin-top: 0;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  letter-spacing: 0.8px;
+  font-family: 'Playfair Display', serif;
+  border-top: 2px solid rgba(255, 215, 0, 0.3);
+  border-bottom: 2px solid rgba(255, 215, 0, 0.3);
+  padding: 1rem 0;
+  width: 80%;
+  margin: 0 auto;
 ">
-  🔗 Bridging WordPress Power with MERN Stack Performance
+  Bridging WordPress Power with MERN Stack Performance
 </h4>
+
+</div>
 
 </div>
 </div>
