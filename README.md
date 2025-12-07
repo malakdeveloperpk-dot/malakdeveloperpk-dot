@@ -1,13 +1,37 @@
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20Developer%20&%20MERN%20Stack&descSize=20&descAlignY=75)
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=2000&color=00FF80&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Building%20Digital%20Experiences%20That%20Convert&background=0D1117&cursor=true&height=50&multiline=false&random=false&repeat=true" alt="🚀 Building Digital Experiences That Convert" />
-</h3>
+<<div align="center">
+  <h3 align="center" style="
+    background: linear-gradient(90deg, #00ff88, #00C7B7, #00ff88);
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 3s ease infinite;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  ">
+    🚀 Building Digital Experiences That Convert
+  </h3>
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=00C7B7&center=true&vCenter=true&width=750&lines=Bridging%20WordPress%20Power%20with%20MERN%20Stack%20Performance&background=0D1117&cursor=true&height=40&multiline=false&random=false&repeat=true" alt="Bridging WordPress Power with MERN Stack Performance" />
-</h4>
+  <h4 align="center" style="
+    background: linear-gradient(90deg, #00C7B7, #8A2BE2, #00C7B7);
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 4s ease infinite;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-top: 0;
+  ">
+    Bridging WordPress Power with MERN Stack Performance
+  </h4>
+</div>
+
+<!-- Note: GitHub README doesn't support CSS animations directly, but you can use this in portfolio websites -->
 
 <p align="center">
   <a href="https://github.com/malakdeveloperpk-dot?tab=followers">
