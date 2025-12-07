@@ -1,25 +1,24 @@
 <div align="center">
   
-<!-- Capsule with animated description -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20Developer%20&%20MERN%20Stack&descSize=20&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
 
-<!-- Animated Main Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=00FF80&center=true&vCenter=true&width=600&lines=🚀+Building+Digital+Experiences+That+Convert" alt="Building Digital Experiences That Convert" />
-</p>
+<h3 align="center">🚀 Building Digital Experiences That Convert</h3>
+<h4 align="center">Bridging WordPress Power with MERN Stack Performance</h4>
 
-<!-- Animated Subheading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=2000&color=00C7B7&center=true&vCenter=true&width=650&lines=Bridging+WordPress+Power+with+MERN+Stack+Performance" alt="Bridging WordPress Power with MERN Stack Performance" />
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malakdeveloperpk-dot&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/🌟-Full_Stack_Developer-00C7B7?style=flat" />
+  <a href="https://github.com/AdnanKhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/AdnanKhan?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/YOUR_USERNAME" alt="Repositories">
+  </a>
+  <a href="https://wakatime.com/@YOUR_USERNAME">
+    <img src="https://wakatime.com/badge/user/YOUR_USERNAME.svg" alt="WakaTime">
+  </a>
 </p>
 
 </div>
+
 ---
 
 ## 🌟 **Quick Overview**
@@ -106,20 +105,17 @@
 
 <div align="center">
   
-### **🏆 My GitHub Profile**
-[![malakdeveloperpk-dot](https://img.shields.io/badge/GitHub-malakdeveloperpk--dot-181717?style=for-the-badge&logo=github)](https://github.com/malakdeveloperpk-dot)
-
 <!-- GitHub Stats -->
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malakdeveloperpk-dot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
+![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malakdeveloperpk-dot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=malakdeveloperpk-dot&theme=radical&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
 <!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malakdeveloperpk-dot&theme=react-dark&bg_color=0d1117&hide_border=true&color=00ff88&line=00ff88&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&color=00ff88&line=00ff88&point=ffffff)
 
 </div>
 
@@ -138,9 +134,6 @@
         <strong>Results:</strong> 40% faster load times, 25% increase in conversions<br>
         <strong>Features:</strong> Real-time inventory, payment gateways, admin dashboard
       </p>
-      <a href="https://github.com/malakdeveloperpk-dot?tab=repositories&q=ecommerce">
-        <img src="https://img.shields.io/badge/🔍-View_Code_on_GitHub-181717?style=for-the-badge&logo=github" />
-      </a>
     </td>
     <td width="40%" align="center">
       <img src="https://img.shields.io/badge/🚀-Live_Demo-00C7B7?style=for-the-badge" />
@@ -161,9 +154,6 @@
         <strong>Results:</strong> 95+ PageSpeed, 60% better SEO ranking<br>
         <strong>Features:</strong> SSG, SEO optimized, dark mode, analytics
       </p>
-      <a href="https://github.com/malakdeveloperpk-dot?tab=repositories&q=blog">
-        <img src="https://img.shields.io/badge/🔍-View_Code_on_GitHub-181717?style=for-the-badge&logo=github" />
-      </a>
     </td>
     <td width="40%" align="center">
       <img src="https://img.shields.io/badge/🌐-Visit_Site-8A2BE2?style=for-the-badge" />
@@ -184,9 +174,6 @@
         <strong>Results:</strong> 80% reduction in reporting time<br>
         <strong>Features:</strong> Live charts, user management, export functionality
       </p>
-      <a href="https://github.com/malakdeveloperpk-dot?tab=repositories&q=dashboard">
-        <img src="https://img.shields.io/badge/🔍-View_Code_on_GitHub-181717?style=for-the-badge&logo=github" />
-      </a>
     </td>
     <td width="40%" align="center">
       <img src="https://img.shields.io/badge/📈-View_Demo-FF6B6B?style=for-the-badge" />
