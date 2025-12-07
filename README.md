@@ -1,14 +1,20 @@
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20Developer%20&%20MERN%20Stack&descSize=20&descAlignY=75)
-<<div align="center">
+<div align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Building%20Digital%20Experiences%20That%20Convert&background=00FF88&height=60&multiline=false&random=false&repeat=true&radius=15" alt="🚀 Building Digital Experiences That Convert" />
-</p>
+ <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Bridging%20WordPress%20Power%20with%20MERN%20Stack%20Performance&background=00C7B7&height=45&multiline=false&random=false&repeat=true&radius=12" alt="Bridging WordPress Power with MERN Stack Performance" />
-</p>
+<!-- Premium Animated H3 with Gradient & Effects -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=4000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80%20Building%20Digital%20Experiences%20That%20Convert&background=linear-gradient(135deg%2C%20%2300ff88%2C%20%2300C7B7%2C%20%238A2BE2)&height=65&multiline=false&radius=20&border=2px%20solid%20%2300ff88&boxShadow=0%208px%2032px%20rgba(0%2C255%2C136%2C0.3)" alt="🚀 Building Digital Experiences That Convert" />
+</h3>
+
+<!-- Premium Animated H4 with Glow Effect -->
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bridging%20WordPress%20Power%20with%20MERN%20Stack%20Performance&background=linear-gradient(135deg%2C%20%2300C7B7%2C%20%238A2BE2%2C%20%23FF6B6B)&height=50&multiline=false&radius=15&border=2px%20solid%20%2300C7B7&boxShadow=0%206px%2024px%20rgba(0%2C199%2C183%2C0.3)" alt="Bridging WordPress Power with MERN Stack Performance" />
+</h4>
+
 </div>
 
 <!-- Note: GitHub README doesn't support CSS animations directly, but you can use this in portfolio websites -->
