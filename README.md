@@ -5,16 +5,19 @@
  <p align="center">
  <div align="center">
 
-<!-- Premium Animated H3 with Gradient & Effects -->
+<div align="center">
+
+<!-- H3 with Neon Glow Effect -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=4000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80%20Building%20Digital%20Experiences%20That%20Convert&background=linear-gradient(135deg%2C%20%2300ff88%2C%20%2300C7B7%2C%20%238A2BE2)&height=65&multiline=false&radius=20&border=2px%20solid%20%2300ff88&boxShadow=0%208px%2032px%20rgba(0%2C255%2C136%2C0.3)" alt="🚀 Building Digital Experiences That Convert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&duration=4500&pause=3000&color=00FF80&center=true&vCenter=true&width=780&lines=%E2%9C%A8%20BUILDING%20DIGITAL%20EXPERIENCES%20THAT%20CONVERT&background=0D1117&height=70&multiline=false&radius=25&border=3px%20solid%20%2300FF80&boxShadow=0%200%2020px%20%2300FF80%2C%200%200%2040px%20%2300FF80%2C%200%200%2060px%20%2300FF80" alt="✨ BUILDING DIGITAL EXPERIENCES THAT CONVERT" />
 </h3>
 
-<!-- Premium Animated H4 with Glow Effect -->
+<!-- H4 with Subtle Glow -->
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bridging%20WordPress%20Power%20with%20MERN%20Stack%20Performance&background=linear-gradient(135deg%2C%20%2300C7B7%2C%20%238A2BE2%2C%20%23FF6B6B)&height=50&multiline=false&radius=15&border=2px%20solid%20%2300C7B7&boxShadow=0%206px%2024px%20rgba(0%2C199%2C183%2C0.3)" alt="Bridging WordPress Power with MERN Stack Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=3000&color=00C7B7&center=true&vCenter=true&width=850&lines=%F0%9F%94%97%20BRIDGING%20WORDPRESS%20%26%20MERN%20STACK%20PERFORMANCE&background=0D1117&height=55&multiline=false&radius=20&border=2px%20solid%20%2300C7B7&boxShadow=0%200%2015px%20%2300C7B7%2C%200%200%2030px%20%2300C7B7" alt="🔗 BRIDGING WORDPRESS & MERN STACK PERFORMANCE" />
 </h4>
 
+</div>
 </div>
 
 <!-- Note: GitHub README doesn't support CSS animations directly, but you can use this in portfolio websites -->
