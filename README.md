@@ -15,12 +15,6 @@
   <a href="https://github.com/malakdeveloperpk-dot?tab=repositories">
     <img src="https://badges.pufler.dev/repos/malakdeveloperpk-dot" alt="Repositories">
   </a>
-  <a href="https://wakatime.com/@malakdeveloperpk-dot">
-    <img src="https://wakatime.com/badge/user/malakdeveloperpk-dot.svg" alt="WakaTime">
-  </a>
-  <a href="https://github.com/malakdeveloperpk-dot">
-    <img src="https://img.shields.io/badge/📂-View_All_Projects-00ff88?style=for-the-badge&logo=github" alt="GitHub Projects">
-  </a>
 </p>
 
 </div>
