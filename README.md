@@ -9,35 +9,39 @@
 
 <div align="center">
 
-## 🎨 **Option 1: Gradient Elegance**
+<div align="center">
 
 <h3 align="center" style="
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  font-size: 2.8rem;
-  font-weight: 800;
-  margin-bottom: 1rem;
-  padding: 1rem;
-  letter-spacing: 0.5px;
+  color: #ffffff;
+  background: linear-gradient(90deg, #00ff88, #00c7b7);
+  padding: 1.2rem 2.5rem;
+  border-radius: 50px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 10px 30px rgba(0, 255, 136, 0.3);
+  letter-spacing: 0.8px;
 ">
-  🚀 Building Digital Experiences That Convert
+  ✨ Building Digital Experiences That Convert
 </h3>
 
 <h4 align="center" style="
-  background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  font-size: 2rem;
+  color: #ffffff;
+  background: linear-gradient(90deg, #8a2be2, #ff6b6b);
+  padding: 1rem 2rem;
+  border-radius: 40px;
+  font-size: 1.8rem;
   font-weight: 600;
+  display: inline-block;
   margin-top: 0;
-  padding: 0.8rem;
-  font-style: italic;
+  box-shadow: 0 8px 25px rgba(138, 43, 226, 0.25);
+  letter-spacing: 0.5px;
 ">
-  Bridging WordPress Power with MERN Stack Performance
+  🔗 Bridging WordPress Power with MERN Stack Performance
 </h4>
+
+</div>
 
 </div>
 </div>
