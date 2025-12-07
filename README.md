@@ -1,55 +1,9 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20Developer%20&%20MERN%20Stack&descSize=20&descAlignY=75)
-<div align="center">
- <p align="center">
- <div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
 
-<div align="center">
-
-<div align="center">
-
-<h3 align="center" style="
-  color: #ffd700;
-  font-size: 3.2rem;
-  font-weight: 900;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3),
-               0 0 20px rgba(255, 215, 0, 0.3);
-  margin-bottom: 1.5rem;
-  letter-spacing: 1px;
-  font-family: 'Playfair Display', serif;
-">
-  🏆 Building Digital Experiences That Convert
-</h3>
-
-<h4 align="center" style="
-  color: #c0c0c0;
-  font-size: 2.3rem;
-  font-weight: 700;
-  margin-top: 0;
-  letter-spacing: 0.8px;
-  font-family: 'Playfair Display', serif;
-  border-top: 2px solid rgba(255, 215, 0, 0.3);
-  border-bottom: 2px solid rgba(255, 215, 0, 0.3);
-  padding: 1rem 0;
-  width: 80%;
-  margin: 0 auto;
-">
-  Bridging WordPress Power with MERN Stack Performance
-</h4>
-
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-</div>
-</div>
-
-<!-- Note: GitHub README doesn't support CSS animations directly, but you can use this in portfolio websites -->
+<h3 align="center">🚀 Building Digital Experiences That Convert</h3>
+<h4 align="center">Bridging WordPress Power with MERN Stack Performance</h4>
 
 <p align="center">
   <a href="https://github.com/malakdeveloperpk-dot?tab=followers">
