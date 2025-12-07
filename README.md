@@ -1,25 +1,84 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20WordPress%20%26%20MERN%20Stack&descSize=22&descAlignY=70&descAlign=50&animation=twinkling)
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=00FF80&center=true&vCenter=true&width=650&height=60&lines=%F0%9F%9A%80+Building+Digital+Experiences+That+Convert" alt="Building Digital Experiences That Convert" />
-</h3>
-
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00C7B7&center=true&vCenter=true&width=700&height=40&lines=Bridging+WordPress+Power+with+MERN+Stack+Performance" alt="Bridging WordPress Power with MERN Stack Performance" />
-</h4>
-
+<!-- Animated Gradient Header -->
+<div align="center">
+  <h1 align="center" style="font-size: 3rem; margin-bottom: 10px;">
+    <span style="
+      background: linear-gradient(45deg, #00ff88, #00C7B7, #8A2BE2);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      animation: gradient 3s ease infinite;
+      background-size: 200% 200%;
+    ">Adnan Khan</span>
+  </h1>
+  
+  <h3 align="center" style="font-size: 1.8rem; margin-bottom: 5px;">
+    <span id="animated-text-1"></span>
+  </h3>
+  
+  <h4 align="center" style="font-size: 1.3rem; color: #00C7B7;">
+    <span id="animated-text-2"></span>
+  </h4>
 </div>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/malakdeveloperpk-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/malakdeveloperpk-dot?label=Follow&style=social&logo=github" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/malakdeveloperpk-dot?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/malakdeveloperpk-dot" alt="Repositories">
+  <a href="https://github.com/malakdeveloperpk-dot">
+    <img src="https://github-readme-stats.vercel.app/api?username=malakdeveloperpk-dot&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" alt="GitHub Stats" />
   </a>
 </p>
+
+<!-- HTML for animations (hidden in README) -->
+<!-- 
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink {
+    50% { border-color: transparent }
+  }
+</style>
+
+<script>
+  const text1 = "🚀 Building Digital Experiences That Convert";
+  const text2 = "Bridging WordPress Power with MERN Stack Performance";
+  
+  let i = 0;
+  let j = 0;
+  let speed = 100;
+  
+  function typeWriter1() {
+    if (i < text1.length) {
+      document.getElementById("animated-text-1").innerHTML += text1.charAt(i);
+      i++;
+      setTimeout(typeWriter1, speed);
+    }
+  }
+  
+  function typeWriter2() {
+    if (j < text2.length) {
+      document.getElementById("animated-text-2").innerHTML += text2.charAt(j);
+      j++;
+      setTimeout(typeWriter2, speed);
+    }
+  }
+  
+  // Start animations after page load
+  window.onload = function() {
+    typeWriter1();
+    setTimeout(typeWriter2, text1.length * speed + 500);
+  }
+</script>
+-->
 
 </div>
 
