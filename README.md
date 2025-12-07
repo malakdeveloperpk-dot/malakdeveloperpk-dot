@@ -7,16 +7,39 @@
 
 <div align="center">
 
-<!-- H3 with Neon Glow Effect -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&duration=4500&pause=3000&color=00FF80&center=true&vCenter=true&width=780&lines=%E2%9C%A8%20BUILDING%20DIGITAL%20EXPERIENCES%20THAT%20CONVERT&background=0D1117&height=70&multiline=false&radius=25&border=3px%20solid%20%2300FF80&boxShadow=0%200%2020px%20%2300FF80%2C%200%200%2040px%20%2300FF80%2C%200%200%2060px%20%2300FF80" alt="✨ BUILDING DIGITAL EXPERIENCES THAT CONVERT" />
+<div align="center">
+
+## 🎨 **Option 1: Gradient Elegance**
+
+<h3 align="center" style="
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  letter-spacing: 0.5px;
+">
+  🚀 Building Digital Experiences That Convert
 </h3>
 
-<!-- H4 with Subtle Glow -->
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=3000&color=00C7B7&center=true&vCenter=true&width=850&lines=%F0%9F%94%97%20BRIDGING%20WORDPRESS%20%26%20MERN%20STACK%20PERFORMANCE&background=0D1117&height=55&multiline=false&radius=20&border=2px%20solid%20%2300C7B7&boxShadow=0%200%2015px%20%2300C7B7%2C%200%200%2030px%20%2300C7B7" alt="🔗 BRIDGING WORDPRESS & MERN STACK PERFORMANCE" />
+<h4 align="center" style="
+  background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 0;
+  padding: 0.8rem;
+  font-style: italic;
+">
+  Bridging WordPress Power with MERN Stack Performance
 </h4>
 
+</div>
 </div>
 </div>
 
