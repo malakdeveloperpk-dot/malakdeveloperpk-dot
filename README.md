@@ -1,7 +1,9 @@
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
-<h3 align="center">🚀 Building Digital Experiences That Convert</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF80&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Building+Digital+Experiences+That+Convert;%E2%9C%85+Creating+High+Performance+Web+Apps;%F0%9F%92%BB+Full-Stack+Web+Solutions" alt="Typing SVG" />
+</h3>
 <h4 align="center">Bridging WordPress Power with MERN Stack Performance</h4>
 
 <p align="center">
