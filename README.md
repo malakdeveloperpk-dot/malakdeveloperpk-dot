@@ -1,12 +1,16 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20WordPress%20%26%20MERN%20Stack&descSize=22&descAlignY=70&descAlign=50&animation=twinkling)
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF80&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Building+Digital+Experiences+That+Convert;%E2%9C%85+Creating+High+Performance+Web+Apps;%F0%9F%92%BB+Full-Stack+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=00FF80&center=true&vCenter=true&width=650&height=60&lines=%F0%9F%9A%80+Building+Digital+Experiences+That+Convert" alt="Building Digital Experiences That Convert" />
 </h3>
+
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&height=30&lines=Bridging+WordPress+Power+with+MERN+Stack+Performance;WordPress+%7C+MERN+Stack+%7C+Full-Stack+Development;React+%7C+Node.js+%7C+WordPress+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00C7B7&center=true&vCenter=true&width=700&height=40&lines=Bridging+WordPress+Power+with+MERN+Stack+Performance" alt="Bridging WordPress Power with MERN Stack Performance" />
 </h4>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/malakdeveloperpk-dot?tab=followers">
