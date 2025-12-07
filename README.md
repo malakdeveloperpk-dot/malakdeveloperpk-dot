@@ -1,34 +1,205 @@
-<h1 align="center">👨‍💻 Adnan | Full-Stack Developer</h1>
-<h3 align="center">🔗 WordPress & MERN Stack Specialist</h3>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
+
+<h3 align="center">🚀 Building Digital Experiences That Convert</h3>
+<h4 align="center">Bridging WordPress Power with MERN Stack Performance</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF80&center=true&vCenter=true&width=600&height=50&lines=Building+Modern+Web+Solutions+%F0%9F%9A%80;WordPress+%26+MERN+Stack+%F0%9F%92%BB;Performance+%26+Scalability+%F0%9F%9A%80;Clean+Code+%26+Best+Practices+%E2%9C%85" alt="Typing SVG" />
+  <a href="https://github.com/AdnanKhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/AdnanKhan?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/YOUR_USERNAME" alt="Repositories">
+  </a>
+  <a href="https://wakatime.com/@YOUR_USERNAME">
+    <img src="https://wakatime.com/badge/user/YOUR_USERNAME.svg" alt="WakaTime">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <a href="https://portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/📧-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🎯 **About Me**
+## 🌟 **Quick Overview**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%">
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 What I Bring</h3>
+      <p align="center">
+        • Full-Stack Development Expertise<br>
+        • WordPress Customization & Optimization<br>
+        • MERN Stack Applications<br>
+        • API Development & Integration<br>
+        • Performance Optimization<br>
+        • SEO & Conversion Optimization<br>
+        • Responsive Web Design<br>
+        • Database Architecture<br>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Value Proposition</h3>
+      <p align="center">
+        ⚡ <strong>Faster Development</strong> - 30-40% time savings<br>
+        📈 <strong>Better Performance</strong> - 95+ Google PageSpeed<br>
+        🔒 <strong>Secure Solutions</strong> - Industry best practices<br>
+        📱 <strong>Mobile-First</strong> - Perfect on all devices<br>
+        💰 <strong>ROI Focused</strong> - Business-driven development<br>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 **Tech Stack Showcase**
+
+### **🌐 Frontend Mastery**
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+### **⚙️ Backend & CMS**
+<div align="center">
+  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WooCommerce](https://custom-icon-badges.demolab.com/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+</div>
+
+### **🗄️ Databases & Storage**
+<div align="center">
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+</div>
+
+### **🛠️ DevOps & Tools**
+<div align="center">
+  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Insights**
 
 <div align="center">
   
+<!-- GitHub Stats -->
+![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&color=00ff88&line=00ff88&point=ffffff)
+
+</div>
+
+---
+
+## 🏆 **Featured Portfolio**
+
+### **🎯 Premium E-commerce Solution**
+<table>
+  <tr>
+    <td width="60%">
+      <h4>🛍️ Modern E-commerce Platform</h4>
+      <p>A full-featured e-commerce solution combining WordPress WooCommerce with React frontend for superior performance.</p>
+      <p>
+        <strong>Tech Stack:</strong> React, Node.js, WooCommerce API, MongoDB<br>
+        <strong>Results:</strong> 40% faster load times, 25% increase in conversions<br>
+        <strong>Features:</strong> Real-time inventory, payment gateways, admin dashboard
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/🚀-Live_Demo-00C7B7?style=for-the-badge" />
+      <br>
+      <img src="https://img.shields.io/badge/⭐-4.9/5_Rating-FFD700?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+### **🚀 Headless CMS Blog**
+<table>
+  <tr>
+    <td width="60%">
+      <h4>📝 High-Performance Blog Platform</h4>
+      <p>Headless WordPress blog with Next.js frontend achieving 95+ Google PageSpeed score.</p>
+      <p>
+        <strong>Tech Stack:</strong> Next.js, WordPress REST API, Tailwind CSS<br>
+        <strong>Results:</strong> 95+ PageSpeed, 60% better SEO ranking<br>
+        <strong>Features:</strong> SSG, SEO optimized, dark mode, analytics
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/🌐-Visit_Site-8A2BE2?style=for-the-badge" />
+      <br>
+      <img src="https://img.shields.io/badge/⚡-95_PageSpeed-00ff88?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+### **💼 Business Analytics Dashboard**
+<table>
+  <tr>
+    <td width="60%">
+      <h4>📊 Real-time Business Intelligence</h4>
+      <p>Comprehensive dashboard for business analytics with real-time data visualization.</p>
+      <p>
+        <strong>Tech Stack:</strong> MERN Stack, Chart.js, Socket.io<br>
+        <strong>Results:</strong> 80% reduction in reporting time<br>
+        <strong>Features:</strong> Live charts, user management, export functionality
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/📈-View_Demo-FF6B6B?style=for-the-badge" />
+      <br>
+      <img src="https://img.shields.io/badge/🕒-80%_Time_Saved-00C7B7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 **Development Workflow**
+
+```mermaid
+graph LR
+    A[Discovery] --> B[Planning]
+    B --> C[Design]
+    C --> D[Development]
+    D --> E[Testing]
+    E --> F[Deployment]
+    F --> G[Maintenance]
+    
+    style A fill:#00ff88
+    style B fill:#00C7B7
+    style C fill:#8A2BE2
+    style D fill:#FF6B6B
+    style E fill:#FFD700
+    style F fill:#FFA500
+    style G fill:#9370DB
