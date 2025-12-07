@@ -1,7 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20Developer%20&%20MERN%20Stack&descSize=20&descAlignY=75)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00C7B7,100:8A2BE2&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=scale&desc=Full-Stack%20Developer%20%7C%20WordPress%20%26%20MERN%20Stack&descSize=20&descAlignY=75&descAlign=50&animation=fadeIn)
 <h3 align="center">🚀 Building Digital Experiences That Convert</h3>
 <h4 align="center">Bridging WordPress Power with MERN Stack Performance</h4>
 
