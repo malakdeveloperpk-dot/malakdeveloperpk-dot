@@ -32,18 +32,3 @@
 
 <div align="center">
   
-```javascript
-const adnan = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "PHP", "Python"],
-  techStack: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express.js", "PHP", "WordPress"],
-    database: ["MongoDB", "MySQL", "Firebase"],
-    devOps: ["Docker", "AWS", "Git", "CI/CD"],
-    cms: ["WordPress", "Headless CMS", "Strapi"]
-  },
-  architecture: ["SPA", "PWA", "Microservices", "Serverless"],
-  currentFocus: "Building scalable full-stack applications",
-  funFact: "I can debug production issues while drinking coffee ☕"
-};
