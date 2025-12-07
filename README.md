@@ -2,13 +2,13 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20Developer%20&%20MERN%20Stack&descSize=20&descAlignY=75)
 <<div align="center">
-  <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=4000&pause=2500&color=00FF80&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80%20BUILDING%20DIGITAL%20EXPERIENCES%20THAT%20CONVERT&background=0D111700&cursor=true&height=55&multiline=false&random=false&repeat=true&size=34" alt="🚀 BUILDING DIGITAL EXPERIENCES THAT CONVERT" />
-</h3>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Building%20Digital%20Experiences%20That%20Convert&background=00FF88&height=60&multiline=false&random=false&repeat=true&radius=15" alt="🚀 Building Digital Experiences That Convert" />
+</p>
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=2500&color=00C7B7&center=true&vCenter=true&width=780&lines=%E2%9C%8D%EF%B8%8F%20Bridging%20%F0%9F%93%9A%20WordPress%20Power%20with%20%F0%9F%92%BB%20MERN%20Stack%20Performance&background=0D111700&cursor=true&height=45&multiline=false&random=false&repeat=true" alt="🤝 Bridging 📚 WordPress Power with 💻 MERN Stack Performance" />
-</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Bridging%20WordPress%20Power%20with%20MERN%20Stack%20Performance&background=00C7B7&height=45&multiline=false&random=false&repeat=true&radius=12" alt="Bridging WordPress Power with MERN Stack Performance" />
+</p>
 </div>
 
 <!-- Note: GitHub README doesn't support CSS animations directly, but you can use this in portfolio websites -->
