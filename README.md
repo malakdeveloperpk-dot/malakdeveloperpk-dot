@@ -1,15 +1,15 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20WordPress%20&%20MERN%20Stack&descSize=20&descAlignY=75)
 
 <h3 align="center">🚀 Building Digital Experiences That Convert</h3>
 <h4 align="center">Bridging WordPress Power with MERN Stack Performance</h4>
 
 <p align="center">
-  <a href="https://github.com/AdnanKhan?tab=followers">
+  <a href="https://github.com/malakdeveloperpk-dot=followers">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/AdnanKhan?tab=repositories">
+  <a href="https://github.com/malakdeveloperpk-dot?tab=repositories">
     <img src="https://badges.pufler.dev/repos/YOUR_USERNAME" alt="Repositories">
   </a>
   <a href="https://wakatime.com/@YOUR_USERNAME">
